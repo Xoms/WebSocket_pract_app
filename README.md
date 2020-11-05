@@ -7,7 +7,7 @@
 
 2. Open in browser "localhost:9000"
 
-3. Now your are connected via websocket (you can see it in your's terminal)))
+3. Now your are connected via websocket (you can see it in your terminal)))
 
 4. Try to open some new tabs in browser "localhost:9000" (you can see in terminal console.logs about connected user)
 
