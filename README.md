@@ -1,6 +1,6 @@
 # WebSocket_pract_app
-
-As an example of usage of websockets  on Node.js + express + socket.io and with webpack, babel, sass
+in development for fun :)
+As an example of usage of websockets  on Node.js + express + socket.io and with webpack, babel, sass and ,any other things
 
 ## How to use :
 
